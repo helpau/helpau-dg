@@ -537,6 +537,7 @@ module.exports = function (eleventyConfig) {
     },
   });
 
+  eleventyConfig.addPassthroughCopy({ 'src/site/robots.txt': '/robots.txt' });
   userEleventySetup(eleventyConfig);
 
   return {
