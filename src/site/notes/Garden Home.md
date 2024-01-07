@@ -6,3 +6,4 @@
 [Восстановление организма](https://helpau-dg.vercel.app/vosstanovlenie-organizma)
 [Календари](https://helpau-dg.vercel.app/kalendari/)
 [Минимализм](https://helpau-dg.vercel.app/minimalizm)
+[Странные оптимизации](https://helpau-dg.vercel.app/strannye-optimizaczii/)
